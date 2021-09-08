@@ -28,9 +28,9 @@ img{
 }
 
 h1{
-    font-size: 50px;
+  font-size: 50px;
   line-height: 1;
-  padding: 25px 0;
+  padding: 20px 0;
   text-align: center;
   color: rgb(22, 146, 63);
 }
@@ -42,6 +42,9 @@ h2{
     
     color: rgb(22, 146, 63);
   }
+a{
+    font-size: 35px;
+}
 
 h3{
     font-size: 24px;
