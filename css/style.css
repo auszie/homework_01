@@ -35,6 +35,10 @@ h1{
   color: rgb(22, 146, 63);
 }
 
+ul{
+    padding-bottom: 10px;
+}
+
 h2{
     font-size: 40px;
     line-height: 1.5;
