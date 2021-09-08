@@ -1,0 +1,113 @@
+html{
+    scroll-behavior: smooth;
+}
+
+img{
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5%;  
+
+}
+
+.Places{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-list{
+    display: flex;
+    margin: 10px;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: auto
+}
+
+h1{
+    font-size: 50px;
+  line-height: 1;
+  padding: 25px 0;
+  text-align: center;
+  color: rgb(22, 146, 63);
+}
+
+h2{
+    font-size: 32px;
+    line-height: 1.5;
+    padding-bottom: 5px;
+    
+    color: rgb(22, 146, 63);
+  }
+
+h3{
+    font-size: 24px;
+    line-height: 1.5;
+    padding-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 75%;
+    color: rgb(22, 146, 63);
+  }
+
+nav{
+    padding: 10px 5px; 
+    text-align: center;
+    font-size: 42px;
+  }
+
+#apollo{
+   width: 30%;
+   margin-left: 10%;
+   margin-right: 0%;
+}
+
+
+li{
+    font-size: 22px;
+}
+
+header p{
+    color: rgb(22, 146, 63);
+    font-size: 32px;
+    text-align: center;
+  }
+
+body{
+    background-image: url(../images/Map.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+  }
+
+  .aboutme{
+    background-color: whitesmoke;
+    background-image: none;
+  }
+
+  nav li{
+    display:inline-flex;
+    padding-right:20px;
+    padding-bottom: 10px;
+  
+  }
+
+  footer{
+    color: whitesmoke;
+    padding-top: 15px;
+    text-align: center;
+    bottom: 0;
+    align-items: center;
+  }
+
+  footer p{
+      color: rgb(22, 146, 63);
+  }
